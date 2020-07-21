@@ -18,4 +18,4 @@ tiene los siguientes parámetros de entrada:
 
 4. Si se prefiere ejecutar la herramienta pruebas Swagger, ingresar a la direccion:
 
-http://localhost:8080/api/swagger-ui.html
+http://localhost:8080/swagger-ui.html
